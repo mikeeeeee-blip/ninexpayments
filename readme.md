@@ -1,7 +1,3 @@
-# readme
-
-## Overview
-
 This document outlines the database schema for the payment gateway platform. The system uses MongoDB with Mongoose ODM and consists of 6 main collections that handle user management, transactions, payouts, and platform configuration.
 
 ---
