@@ -329,3 +329,28 @@ This schema supports a multi-tenant payment gateway platform with:
 - ✅ Detailed transaction tracking with acquirer data (UTR, RRN, VPA)
 - ✅ Commission and fee management
 - ✅ Round-robin gateway rotation for load distribution
+
+
+![alt text](image-1.png)
+
+
+
+
+
+![alt text](image-4.png)
+
+
+
+
+![alt text](image-5.png)
+
+
+
+
+
+
+![alt text](image-2.png)
+
+
+
+![alt text](image-3.png)
